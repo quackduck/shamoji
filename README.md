@@ -2,6 +2,11 @@
 #### - All the security of SHA256 in 26 emoji 
 
 ## Install
+
+```shell
+brew install quackduck/tap/shamoji
+```
+or
 ```shell
 git clone https://github.com/quackduck/shamoji && cd shamoji
 go install
