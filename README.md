@@ -1,4 +1,5 @@
 # Shamoji
+#### - All the security of SHA256 in 26 emoji 
 
 ## Install
 ```shell
